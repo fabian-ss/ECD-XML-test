@@ -20,3 +20,4 @@ The config.json file serves as the program's configuration file, but its presenc
 
 ## Repository
 Gitlab: https://gitlab.com/randommusicd/ecd-xml-test-jf (only need LogIn)
+GitHub: https://github.com/fabian-ss/ECD-XML-test
